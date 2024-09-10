@@ -1,6 +1,6 @@
 # B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests
 
-We provide the replication package for our paper: "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests".
+We provide the replication package for our ASE'24 paper: "B4: Towards Optimal Assessment of Plausible Code Solutions with Plausible Tests".
 
 ### Run simulated experiments
 
